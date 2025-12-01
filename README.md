@@ -22,4 +22,4 @@
 - Assicurazione professionale
 
 ## 💡 Contatti
-🌐 Contatti: [Modulo contatti](https://www.riprese360.it/contatti)
+🌐 Contatti: [Modulo contatti](https://www.riprese360.it/contatti.html)
